@@ -1,3 +1,4 @@
+<img width="1536" height="1024" alt="ChatGPT Image Apr 17, 2026, 01_45_41 PM" src="https://github.com/user-attachments/assets/e3edbc28-08b4-482f-9b9e-4741d65cefa8" />
 # Financial Crime Transaction Monitoring System (SQL)
 
 ## Overview
